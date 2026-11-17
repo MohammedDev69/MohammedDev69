@@ -1,0 +1,55 @@
+name: Generate noir stats
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate stats + languages SVGs (noir)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
+          node .github/scripts/stats.mjs
+
+      - name: Publish to output branch (merge-safe, keeps snake files)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -rf out
+          if ! git clone --depth 1 --branch output "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git" out 2>/dev/null; then
+            mkdir out
+            cd out
+            git init -b output
+            git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git"
+            cd ..
+          fi
+          cp dist/*.svg out/
+          cd out
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to stats"
+          else
+            git commit -m "chore: refresh noir stats cards"
+            git push origin output
+          fi
