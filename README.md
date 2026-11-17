@@ -54,12 +54,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedDev69&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=2dd4bf&text_color=c9d1d9" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedDev69&layout=compact&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohammedDev69&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=2dd4bf&text_color=c9d1d9&v=3" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammedDev69&layout=compact&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9&v=3" height="165" alt="Top languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammedDev69&theme=discord&no-frame=true&no-bg=true&column=7" width="100%" alt="GitHub trophies"/>
+  <img src="https://streak-stats.demolab.com?user=MohammedDev69&hide_border=true&background=0D1117&stroke=7C3AED&ring=2DD4BF&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8B949E&v=3" height="165" alt="GitHub streak"/>
 </div>
 
 <br/>
