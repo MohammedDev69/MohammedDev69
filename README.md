@@ -55,8 +55,8 @@ $ philosophy
 ## ◆ Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohammedDev69&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8E8E8&icon_color=BDBDBD&text_color=c9d1d9&v=4" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammedDev69&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8E8E8&text_color=c9d1d9&v=4" height="165" alt="Top languages"/>
+  <img src="https://raw.githubusercontent.com/MohammedDev69/MohammedDev69/output/stats.svg" width="100%" alt="GitHub stats"/>
+  <img src="https://raw.githubusercontent.com/MohammedDev69/MohammedDev69/output/languages.svg" width="100%" alt="Top languages"/>
 </div>
 
 <div align="center">
