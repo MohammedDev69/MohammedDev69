@@ -62,6 +62,14 @@
   <img src="https://streak-stats.demolab.com?user=MohammedDev69&hide_border=true&background=0D1117&stroke=7C3AED&ring=2DD4BF&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8B949E&v=3" height="165" alt="GitHub streak"/>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammedDev69/MohammedDev69/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohammedDev69/MohammedDev69/output/github-contribution-grid-snake-light.svg"/>
+    <img src="https://raw.githubusercontent.com/MohammedDev69/MohammedDev69/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation"/>
+  </picture>
+</div>
+
 <br/>
 
 ## 📫 Let's Connect
