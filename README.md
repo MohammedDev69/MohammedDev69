@@ -7,6 +7,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mohammed1.nasr.elshreef%40gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammed1.nasr.elshreef@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Tronex-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/832761264542449695)
 [![Location](https://img.shields.io/badge/Location-Alexandria%2C%20Egypt-2dd4bf?style=flat-square&logo=googlemaps&logoColor=white)]()
 [![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Web%20Apps-a78bfa?style=flat-square&logo=rocket&logoColor=white)]()
 
@@ -53,12 +54,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohammedDev69&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=2dd4bf&text_color=c9d1d9" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammedDev69&layout=compact&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedDev69&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=2dd4bf&text_color=c9d1d9" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedDev69&layout=compact&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" height="165" alt="Top languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohammedDev69&hide_border=true&background=0D1117&stroke=7C3AED&ring=2DD4BF&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8B949E" height="165" alt="GitHub streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammedDev69&theme=discord&no-frame=true&no-bg=true&column=7" width="100%" alt="GitHub trophies"/>
 </div>
 
 <br/>
@@ -68,6 +69,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-mohammed1.nasr.elshreef%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed1.nasr.elshreef@gmail.com)
+[![Discord](https://img.shields.io/badge/%F0%9F%92%AC_Discord-Tronex-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/832761264542449695)
 
 **Open to full-stack opportunities, internships & freelance work.**
 
