@@ -2,43 +2,44 @@
   <img src="./assets/banner.png" width="100%" alt="Tronex — Full-Stack Developer"/>
 </div>
 
-<br/>
-
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-mohammed1.nasr.elshreef%40gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammed1.nasr.elshreef@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Tronex-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/832761264542449695)
-[![Location](https://img.shields.io/badge/Location-Alexandria%2C%20Egypt-2dd4bf?style=flat-square&logo=googlemaps&logoColor=white)]()
-[![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Web%20Apps-a78bfa?style=flat-square&logo=rocket&logoColor=white)]()
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1200&color=BDBDBD&background=00000000&center=true&vCenter=true&width=760&height=50&lines=Full-Stack+Developer;Ships+end-to-end+products;Realtime+%C2%B7+Clean+Architecture+%C2%B7+Automation" alt="Typing animation"/>
 </div>
 
-## 👋 About Me
+<div align="center"><img src="./assets/divider.svg" width="55%" alt=""/></div>
 
-> **Full-Stack Developer** who ships end-to-end products — from pixel-perfect **Next.js** frontends to production-grade **NestJS** APIs — with a strong taste for realtime systems, clean architecture, and automation.
+## ◆ About
 
-- 🔭 Currently building **[gamers-matrix](https://github.com/MohammedDev69/gamers-matrix)** — a digital goods store with real payment integration
-- 🎮 Crafted **[cup-play](https://github.com/MohammedDev69/cup-play)** — realtime multiplayer party games with live voice rooms
-- 🤖 Shipped **multiple production Discord bots** serving real communities (OCR verification, moderation, payments)
-- 💬 Ask me about **TypeScript · React · Node.js · Supabase · Discord bots**
-- ⚡ Fun fact: I treat every side project like it's going to production — auth, rate limits, RLS and all
+```bash
+$ whoami
+  tronex — Full-Stack Developer · Alexandria, Egypt
 
-<br/>
+$ cat stack.txt
+  Next.js → NestJS → Supabase → TypeScript → PostgreSQL
 
-## 🛠️ Tech Stack
+$ status --now
+  building   gamers-matrix — digital goods store with real payments
+  shipped    cup-play · 4 production Discord bots
+  open_to    full-time · internships · freelance
 
-<div align="center">
+$ philosophy
+  "Ship production-grade, not prototypes — auth, rate limits, RLS and all."
+```
 
-| 🎨 Frontend | ⚙️ Backend | 🗄️ Data & Infra | 🤖 Bots & Automation |
-|:---:|:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![discord.py](https://img.shields.io/badge/discord.py-3776AB?style=flat-square&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0A0D1A?style=flat-square&logo=fastapi&logoColor=white) | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![OCR](https://img.shields.io/badge/Tesseract_OCR-0A0D1A?style=flat-square&logo=tesseract&logoColor=white) |
+<div align="center"><img src="./assets/divider.svg" width="55%" alt=""/></div>
 
-</div>
+## ◆ Tech Stack
 
-<br/>
+| | |
+|:---|:---|
+| 🎨 **Frontend** | ![React](https://img.shields.io/badge/React-16181D?style=for-the-badge&logo=react&logoColor=E8E8E8) ![Next.js](https://img.shields.io/badge/Next.js-16181D?style=for-the-badge&logo=nextdotjs&logoColor=E8E8E8) ![TypeScript](https://img.shields.io/badge/TypeScript-16181D?style=for-the-badge&logo=typescript&logoColor=E8E8E8) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-16181D?style=for-the-badge&logo=tailwindcss&logoColor=E8E8E8) ![Vite](https://img.shields.io/badge/Vite-16181D?style=for-the-badge&logo=vite&logoColor=E8E8E8) |
+| ⚙️ **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-16181D?style=for-the-badge&logo=nodedotjs&logoColor=E8E8E8) ![NestJS](https://img.shields.io/badge/NestJS-16181D?style=for-the-badge&logo=nestjs&logoColor=E8E8E8) ![Express](https://img.shields.io/badge/Express-16181D?style=for-the-badge&logo=express&logoColor=E8E8E8) ![Python](https://img.shields.io/badge/Python-16181D?style=for-the-badge&logo=python&logoColor=E8E8E8) |
+| 🗄️ **Data & Infra** | ![Supabase](https://img.shields.io/badge/Supabase-16181D?style=for-the-badge&logo=supabase&logoColor=E8E8E8) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16181D?style=for-the-badge&logo=postgresql&logoColor=E8E8E8) ![Prisma](https://img.shields.io/badge/Prisma-16181D?style=for-the-badge&logo=prisma&logoColor=E8E8E8) ![Docker](https://img.shields.io/badge/Docker-16181D?style=for-the-badge&logo=docker&logoColor=E8E8E8) ![Cloudflare](https://img.shields.io/badge/Cloudflare-16181D?style=for-the-badge&logo=cloudflare&logoColor=E8E8E8) |
+| 🤖 **Bots & Automation** | ![discord.js](https://img.shields.io/badge/discord.js-16181D?style=for-the-badge&logo=discord&logoColor=E8E8E8) ![discord.py](https://img.shields.io/badge/discord.py-16181D?style=for-the-badge&logo=python&logoColor=E8E8E8) ![Playwright](https://img.shields.io/badge/Playwright-16181D?style=for-the-badge&logo=playwright&logoColor=E8E8E8) ![OpenCV](https://img.shields.io/badge/OpenCV-16181D?style=for-the-badge&logo=opencv&logoColor=E8E8E8) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-16181D?style=for-the-badge&logo=githubactions&logoColor=E8E8E8) |
 
-## 🚀 Featured Projects
+<div align="center"><img src="./assets/divider.svg" width="55%" alt=""/></div>
+
+## ◆ Featured Projects
 
 | Project | What it does | Stack |
 |:---|:---|:---|
@@ -49,17 +50,21 @@
 | 🛡️ **[discord-word-obfuscator](https://github.com/MohammedDev69/discord-word-obfuscator)** | Keyword obfuscation, auto-moderation with persistent warnings, order tickets & self-roles | `discord.js` `Node.js` |
 | 🎡 **[spin-wheel-bot](https://github.com/MohammedDev69/spin-wheel-bot)** | Animated, weighted spin-wheel prize system rendered in real-time with Canvas | `discord.js` `Canvas` |
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="55%" alt=""/></div>
 
-## 📊 GitHub Stats
+## ◆ Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohammedDev69&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=2dd4bf&text_color=c9d1d9&v=3" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammedDev69&layout=compact&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9&v=3" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohammedDev69&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8E8E8&icon_color=BDBDBD&text_color=c9d1d9&v=4" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammedDev69&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8E8E8&text_color=c9d1d9&v=4" height="165" alt="Top languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohammedDev69&hide_border=true&background=0D1117&stroke=7C3AED&ring=2DD4BF&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8B949E&v=3" height="165" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=MohammedDev69&hide_border=true&background=0D1117&stroke=3A3A3A&ring=E8E8E8&fire=BDBDBD&currStreakNum=E8E8E8&currStreakLabel=BDBDBD&sideNums=c9d1d9&sideLabels=8A8A8A&dates=777777&v=4" height="165" alt="GitHub streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedDev69&bg_color=0D1117&color=c9d1d9&line=BDBDBD&point=E8E8E8&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
 </div>
 
 <div align="center">
@@ -70,14 +75,14 @@
   </picture>
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="55%" alt=""/></div>
 
-## 📫 Let's Connect
+## ◆ Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-mohammed1.nasr.elshreef%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed1.nasr.elshreef@gmail.com)
-[![Discord](https://img.shields.io/badge/%F0%9F%92%AC_Discord-Tronex-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/832761264542449695)
+[![Email](https://img.shields.io/badge/Email-mohammed1.nasr.elshreef%40gmail.com-16181D?style=for-the-badge&logo=gmail&logoColor=E8E8E8)](mailto:mohammed1.nasr.elshreef@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Tronex-16181D?style=for-the-badge&logo=discord&logoColor=E8E8E8)](https://discord.com/users/832761264542449695)
 
 **Open to full-stack opportunities, internships & freelance work.**
 
@@ -86,5 +91,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohammedDev69&color=7c3aed&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MohammedDev69&color=8A8A8A&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
+
+<div align="center">
+  <sub><i>"Build quietly. Ship loudly."</i></sub>
 </div>
