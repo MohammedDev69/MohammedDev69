@@ -10,21 +10,9 @@
 
 ## ◆ About
 
-```bash
-$ whoami
-  tronex — Full-Stack Developer · Alexandria, Egypt
-
-$ cat stack.txt
-  Next.js → NestJS → Supabase → TypeScript → PostgreSQL
-
-$ status --now
-  building   gamers-matrix — digital goods store with real payments
-  shipped    cup-play · 4 production Discord bots
-  open_to    full-time · internships · freelance
-
-$ philosophy
-  "Ship production-grade, not prototypes — auth, rate limits, RLS and all."
-```
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Tronex â€” live terminal"/>
+</div>
 
 <div align="center"><img src="./assets/divider.svg" width="55%" alt=""/></div>
 
