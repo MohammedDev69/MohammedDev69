@@ -46,10 +46,11 @@
   <rect width="1280" height="400" fill="url(#glowBlue)"/>
   <rect width="1280" height="400" fill="url(#glowTeal)"/>
 
-  <!-- faint oversized code brackets -->
-  <g font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-weight="700" fill="#ffffff" fill-opacity="0.045">
-    <text x="28" y="330" font-size="300"><</text>
-    <text x="1130" y="330" font-size="300">/></text>
+  <!-- faint oversized code brackets drawn as paths -->
+  <g stroke="#ffffff" stroke-opacity="0.05" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M 150 170 L 62 250 L 150 330"/>
+    <path d="M 1122 170 L 1210 250 L 1122 330"/>
+    <path d="M 1058 170 L 990 330"/>
   </g>
 
   <!-- corner decorations -->
