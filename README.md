@@ -11,7 +11,7 @@
 ## ◆ About
 
 <div align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Tronex â€” live terminal"/>
+  <img src="./assets/terminal.svg" width="100%" alt="Tronex — live terminal"/>
 </div>
 
 <div align="center"><img src="./assets/divider.svg" width="55%" alt=""/></div>
@@ -31,6 +31,7 @@
 
 | Project | What it does | Stack |
 |:---|:---|:---|
+| ✂️ **[shrinkjs](https://github.com/MohammedDev69/shrinkjs)** | Deterministic input minimization engine that shrinks JS/TS inputs to the smallest case that still reproduces a bug — CLI, reports & artifacts, published on [npm](https://www.npmjs.com/package/@shrinkjs/core) | `TypeScript` `Node.js` `Delta Debugging` `CLI` |
 | 🛒 **[gamers-matrix](https://github.com/MohammedDev69/gamers-matrix)** | Digital goods store (game keys & top-ups) with Paymob payments, RTL Arabic UI and a Turborepo monorepo | `Next.js` `NestJS` `Supabase` `Paymob` |
 | 🎮 **[cup-play](https://github.com/MohammedDev69/cup-play)** | Realtime multiplayer party games — imposter, trivia, quick answer & picture guessing — with LiveKit voice rooms, moderation & seasons | `TanStack Start` `Supabase` `LiveKit` |
 | 📺 **[discord-yt-sub-verifier](https://github.com/MohammedDev69/discord-yt-sub-verifier)** | Grants verified roles by analyzing subscription screenshots with CV + multilingual OCR and anti-spoofing heuristics | `Python` `OpenCV` `Tesseract` `Docker` |
