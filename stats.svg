@@ -1,0 +1,28 @@
+<svg width="900" height="426" viewBox="0 0 900 426" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub stats">
+  <rect x="1" y="1" width="898" height="424" rx="16" fill="#0d1117" stroke="#2a2e37" stroke-width="1.5"/>
+  <text x="40" y="48" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="21" font-weight="700" letter-spacing="3" fill="#e8e8e8">TRONEX</text>
+  <text x="158" y="48" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="15" letter-spacing="2" fill="#8a8a8a">/ GITHUB STATS</text>
+  <circle cx="860" cy="42" r="4" fill="#e8e8e8"/>
+  <line x1="40" y1="66" x2="860" y2="66" stroke="#1e222b" stroke-width="1.5"/>
+  <text x="40" y="107" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" letter-spacing="2" fill="#8a8a8a">COMMITS (1Y)</text>
+  <text x="860" y="108" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-size="20" font-weight="700" fill="#e8e8e8">67</text>
+  <line x1="40" y1="124" x2="860" y2="124" stroke="#1a1e26" stroke-width="1"/>
+  <text x="40" y="153" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" letter-spacing="2" fill="#8a8a8a">PULL REQUESTS</text>
+  <text x="860" y="154" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-size="20" font-weight="700" fill="#e8e8e8">0</text>
+  <line x1="40" y1="170" x2="860" y2="170" stroke="#1a1e26" stroke-width="1"/>
+  <text x="40" y="199" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" letter-spacing="2" fill="#8a8a8a">ISSUES</text>
+  <text x="860" y="200" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-size="20" font-weight="700" fill="#e8e8e8">0</text>
+  <line x1="40" y1="216" x2="860" y2="216" stroke="#1a1e26" stroke-width="1"/>
+  <text x="40" y="245" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" letter-spacing="2" fill="#8a8a8a">CODE REVIEWS</text>
+  <text x="860" y="246" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-size="20" font-weight="700" fill="#e8e8e8">0</text>
+  <line x1="40" y1="262" x2="860" y2="262" stroke="#1a1e26" stroke-width="1"/>
+  <text x="40" y="291" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" letter-spacing="2" fill="#8a8a8a">STARS EARNED</text>
+  <text x="860" y="292" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-size="20" font-weight="700" fill="#e8e8e8">0</text>
+  <line x1="40" y1="308" x2="860" y2="308" stroke="#1a1e26" stroke-width="1"/>
+  <text x="40" y="337" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" letter-spacing="2" fill="#8a8a8a">REPOSITORIES</text>
+  <text x="860" y="338" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-size="20" font-weight="700" fill="#e8e8e8">14</text>
+  <line x1="40" y1="354" x2="860" y2="354" stroke="#1a1e26" stroke-width="1"/>
+  <text x="40" y="383" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" letter-spacing="2" fill="#8a8a8a">FOLLOWERS</text>
+  <text x="860" y="384" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-size="20" font-weight="700" fill="#e8e8e8">2</text>
+  
+</svg>
